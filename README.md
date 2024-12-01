@@ -1,2 +1,2 @@
-# Saamira_Yasmin.github.io
+# SaamiraYasmin.github.io
 Portfolio Website
